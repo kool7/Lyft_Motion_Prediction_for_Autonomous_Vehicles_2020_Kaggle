@@ -1,1 +1,1 @@
-# Lyft_Motion_Prediction_for_Autonomous_Vehicles_2020_Kaggle
+# Lyft Motion Prediction for Autonomous Vehicles 2020 Kaggle
