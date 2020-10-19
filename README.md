@@ -11,3 +11,7 @@
 (27/09/2020) V3 [Lyft_L5_V3_448x448.ipynb](https://github.com/kool7/Lyft_Motion_Prediction_for_Autonomous_Vehicles_2020_Kaggle/blob/master/colab/multimode/Lyft_L5_V3_448x448.ipynb)
   * transform the targets to image coordinates.
   * Using l5kit version 1.0.6. 
+
+(19/10/2020) V5 [Lyft_L5_V5_448x448 + KerasTuner.ipynb](https://github.com/kool7/Lyft_Motion_Prediction_for_Autonomous_Vehicles_2020_Kaggle/blob/master/colab/multimode/Lyft_L5_V5_448x448_%2B_KerasTuner.ipynb)
+  * Using Keras, Tensorflow with KerasTuner and GradientTape for custom training.
+  * Using L5kit version 1.1.0
